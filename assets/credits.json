@@ -1,0 +1,41 @@
+[
+  {
+    "file": "gshop-gpu.jpg",
+    "url": "https://files.ox-sys.com/cache/original/image/62/02/c4/6202c44214621f41a791cdb93a4b6905d93216c2d179664cfe0b8021d39f9788.jpg",
+    "page": "https://gshop.uz/"
+  },
+  {
+    "file": "gshop-product.jpg",
+    "url": "https://files.ox-sys.com/cache/500x_/image/67/ee/c8/67eec891a8d92cc49cd875ba0ab0d4d77f6a0d1fea469650ad036cd4a0aa84ef.jpg",
+    "page": "https://gshop.uz/"
+  },
+  {
+    "file": "pc-gaming.png",
+    "url": "https://pcmarket.uz/wp-content/uploads/2020/06/gamingmsi.png",
+    "page": "https://pcmarket.uz/"
+  },
+  {
+    "file": "uzum.jpg",
+    "url": "https://admin.uzum.com/wp-content/uploads/2024/09/og-image.jpg",
+    "page": "https://uzum.com/ru/"
+  },
+  {
+    "file": "gshop-site.jpg",
+    "url": "https://gshop.uz/",
+    "type": "Снимок главной страницы",
+    "accessed": "2026-11-12"
+  },
+  {
+    "file": "pcmarket-site.jpg",
+    "url": "https://pcmarket.uz/",
+    "type": "Снимок главной страницы",
+    "accessed": "2026-11-12"
+  },
+  {
+    "file": "uzum-site-v2.jpg",
+    "url": "https://uzum.uz/ru",
+    "type": "Снимок главной страницы",
+    "accessed": "2026-11-12",
+    "note": "Обновлённый снимок главной страницы, другой слайд баннера"
+  }
+]
